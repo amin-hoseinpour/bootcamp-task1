@@ -137,7 +137,7 @@ h2 {
 }
 
 .card__header__upload__text {
-  color: var(--color-secondary-light);
+  color: var(--color-secondary-dark);
   font-size: 1.6rem;
   font-weight: 600;
   margin-right: 0.5rem;
